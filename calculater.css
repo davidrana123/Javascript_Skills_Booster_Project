@@ -1,0 +1,27 @@
+.main {
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  /* display: flex; */
+}
+.style {
+  margin-top: 10px;
+  padding-left: 560px;
+  /* height: 50px?; */
+}
+.Clear {
+  margin-top: 10px;
+  padding-left: 560px;
+}
+.answer {
+  padding-left: 500px;
+}
+.cal {
+  padding-left: 535px;
+}
+#ans {
+  width: 200px;
+  height: 30px;
+  /* border: 100px?; */
+}
